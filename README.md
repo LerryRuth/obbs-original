@@ -37,5 +37,5 @@ AI tools were used for:
 2. Copy to `htdocs/`
 3. Import `bb.sql`
 4. Update `connect.php`
-5. Run `http://localhost/OBBS`
+5. Run `http://localhost:8080/OBBS`
 
